@@ -18,9 +18,10 @@ public class ArrayListExampke {
   
   
 	        // Adding elements
-	        fruits.add("Apple");
+	        fruits.add("Lichi");
 	        fruits.add("Banana");
 	        fruits.add("Orange");
+	        fruits.add("Mango");
  Collections.sort(fruits);
  
  
