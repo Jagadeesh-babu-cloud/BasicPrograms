@@ -18,7 +18,7 @@ public class ArrayListExampke {
   
   
 	        // Adding elements
-	        fruits.add("Lichi");
+	        fruits.add("Watermelon");
 	        fruits.add("Banana");
 	        fruits.add("Orange");
 	        fruits.add("Mango");

@@ -43,7 +43,7 @@ public class Listinsidelist {
            sub1.addAll(sub);
 	       l.add(new ArrayList<>(sub));
 	       
-	           System.out.println("sub list is"+ sub);	       
+	         
 	           System.out.println("main list of Arraylist is"+ l);
 	           sub.clear();
 	          sub.add(3);
